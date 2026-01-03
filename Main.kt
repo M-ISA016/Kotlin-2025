@@ -1,3 +1,4 @@
+// firstCode
 fun main() {
     // The next lines reserve memory space for 2 different variables.
     var product = "Tray"
